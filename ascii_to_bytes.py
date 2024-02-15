@@ -1,6 +1,7 @@
 '''
 Nombre: Pedro Arriola
 Carnet: 20188
+Inciso 1
 '''
 
 
